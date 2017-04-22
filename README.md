@@ -1,5 +1,5 @@
 # python
 utility scripts for personal use
-[Abstract Maths, Euclidean Algorithm](am.py)
-[Manage files in a directory tree](fileMgr.py)
-[Rename files in current directory](rename.py)
+1. [Abstract Maths, Euclidean Algorithm](am.py)
+2. [Manage files in a directory tree](fileMgr.py)
+3. [Rename files in current directory](rename.py)
