@@ -1,2 +1,2 @@
 # python
-utility scripts
+utility scripts for personal use
